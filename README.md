@@ -1,2 +1,3 @@
 # starter-web
-Mon Joli Projet
+## Mon Joli Projet
+### Exercice N°6 
